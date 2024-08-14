@@ -1,4 +1,4 @@
-# Hello, I'm Scott 👋
+# Hello, I'm Scott
 
 <!--
 **scottac1011/scottac1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
