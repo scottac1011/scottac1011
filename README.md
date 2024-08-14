@@ -1,6 +1,6 @@
 # Hello, I'm Scott
+<a href="https://linkedin.com/in/scott-cegielski-9863326a/">
 
-<!--
 **scottac1011/scottac1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
