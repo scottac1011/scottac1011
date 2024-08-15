@@ -1,5 +1,5 @@
 # Hello, I'm Scott
-<a href="https://linkedin.com/in/scott-cegielski-9863326a/">
+
 
 I'm a recent postgraduate with a profound interest in technology and a dedication to solving complex problems.
 
