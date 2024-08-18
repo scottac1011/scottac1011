@@ -5,6 +5,9 @@ I'm a recent postgraduate with a profound interest in technology and a dedicatio
 
 
 ## Objective 
+
+My hourney in optical transport engineering has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to join a security operations center (SOC as a Tier I Analyst.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
